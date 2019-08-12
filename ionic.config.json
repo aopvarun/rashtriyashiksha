@@ -1,0 +1,7 @@
+{
+  "name": "s-app",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
